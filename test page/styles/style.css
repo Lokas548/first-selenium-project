@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    max-height: 100px;
+    max-width: 100%;
+    background-color:darksalmon;
+}
+
+
+.header-list{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.page-body{
+    margin-top: 5%;
+    max-width: 80%;
+}
+
+.info{
+    display: flex;
+}
+
+.info img{
+    padding-left: 10%;
+}
